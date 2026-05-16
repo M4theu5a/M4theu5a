@@ -30,11 +30,4 @@
 
 ###
 
-<!-- Link da animação corrigido para o padrão mais estável -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4theu5a/M4theu5a/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4theu5a/M4theu5a/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Animated Snake" src="https://raw.githubusercontent.com/M4theu5a/M4theu5a/output/github-contribution-grid-snake.svg">
-</picture>
 
-###
