@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Matheus and I'm a QA Analyst and Computer Engineering student from Brazil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Working with Software Quality Assurance and System Development.<br>📚 Currently refining my skills in JavaScript, Angular, and SQL.<br>🎯 Goals: Excel in test automation and robust backend logic.<br>🎲 Fun fact: I look at code from two perspectives — how to build it and how to test it.</p>
 
 ###
 
@@ -30,6 +30,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/M4theu5a/M4theu5a/snake-output/snake.svg" alt="Snake animation" />
+<!-- Link da animação corrigido para o padrão mais estável -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M4theu5a/M4theu5a/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M4theu5a/M4theu5a/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Animated Snake" src="https://raw.githubusercontent.com/M4theu5a/M4theu5a/output/github-contribution-grid-snake.svg">
+</picture>
 
 ###
