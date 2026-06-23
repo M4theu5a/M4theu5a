@@ -1,33 +1,41 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey there 👋
 
-###
+I'm Matheus, a developer and Computer Engineering student from Brazil.
 
-<p align="left">My name is Matheus and I'm a QA Analyst and Computer Engineering student from Brazil.</p>
+I mostly work with TypeScript and JavaScript — building full stack applications
+with React, Next.js on the frontend and Node.js with PostgreSQL on the backend.
 
-###
+---
 
-<h2 align="left">About me</h2>
+## Tools & Tech
 
-###
+- TypeScript, JavaScript, Node.js
+- React, Next.js, Tailwind CSS
+- PostgreSQL, MongoDB
+- Docker, Git, Postman
 
-<p align="left">✨ Working with Software Quality Assurance and System Development.<br>📚 Currently refining my skills in JavaScript, Angular, and SQL.<br>🎯 Goals: Excel in test automation and robust backend logic.<br>🎲 Fun fact: I look at code from two perspectives — how to build it and how to test it.</p>
-
-###
+---
 
 <h2 align="left">I code with</h2>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
 </div>
-
-###
-
-
